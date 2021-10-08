@@ -17,7 +17,7 @@ public class GeneratedTests extends TestBase {
     @DisplayName("Letual tests")
     void generatedTest() {
         step("open https://www.letu.ru", () -> {
-            step("// todo: just add selenium action");
+
         });
     }
 
